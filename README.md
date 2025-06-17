@@ -4,10 +4,9 @@ Magnitude of sensors increases from walking to stair ascent to stair descent
 # Plan
 ## Visualize the hind and forefoot on sensor data on each other - [x]
 - Plot data raw to show what is currenly looks like - [x]
-- Remove the trend and plot again (detrend func) - [x]
+- Determine calibration curve equation by taking line of best fit from calibration tests - [ ]
 ## Seperate each gait cycle - [ ]
-- Identify each stage (walking, ascend, descend) - [ ]
-- Define what separates each cycle - [ ]
+- Define what separates each cycle - [x]
 - Use this definition to loop through each part and separate data points into an array - [ ]
 ## Quantify each cycle - [ ]
 Two methods:
