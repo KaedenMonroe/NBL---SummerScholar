@@ -1,7 +1,7 @@
 ## Objective
 Magnitude of sensors increases from walking to stair ascent to stair descent
 
-# Plan
+# Plan - Commencing Later
 ## Visualize the hind and forefoot on sensor data on each other - [x]
 - Plot data raw to show what is currenly looks like - [x]
 - Determine calibration curve equation by taking line of best fit from calibration tests - [ ]
